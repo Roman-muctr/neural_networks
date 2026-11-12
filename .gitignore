@@ -173,4 +173,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+tren.py
+neural_network_diagram.png
 # End of https://www.toptal.com/developers/gitignore/api/python
+
